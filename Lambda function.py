@@ -1,5 +1,3 @@
-user_input = int(input("enter the variable:"))
-
 from functools import reduce
 arr = []
 
